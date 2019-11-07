@@ -1,9 +1,11 @@
-# 文章生成器
+# 狗屁不通文章生成器
 # BullshitGenerator
 
 原项目地址 https://github.com/menzi11/BullshitGenerator
 
 网页版地址 https://suulnnka.github.io/BullshitGenerator/index.html
+
+本项目的网页版地址 https://xrp001.github.io/BullshitGenerator
 
 修改:  
 1.设计并移植至浏览器  
