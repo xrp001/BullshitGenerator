@@ -1,4 +1,3 @@
-<script>
 window.dataLayer = window.dataLayer || [];
 function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
@@ -216,5 +215,3 @@ function 生成文章(){
     $("#文章").innerHTML = 排版;
     gtag('event', 'generator', {'event_category' : 'bullshitgenerator','event_label' : 'generator','value':主题});
 }
-
-</script>
